@@ -1,4 +1,4 @@
-**Live Demo:** https://web-development-labs.onrender.com
+**Live Demo:** https://lab1-express-1.onrender.com
 # Lab 1: Node.js and Express server
 
 **Name:** Avula Raju  
