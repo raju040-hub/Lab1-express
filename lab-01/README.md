@@ -1,7 +1,7 @@
 **Live Demo:** https://lab1-express-1.onrender.com
 # Lab 1: Node.js and Express server
 
-**Name:** Avula Raju  
+**Name:** Avula Raju
 **Registration Number:**252U1R1017
 **Section:** CSE CORE
 **Live Link:** Not deployed yet
